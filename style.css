@@ -1,0 +1,34 @@
+.box{
+  text-align: center;
+}
+
+.box img{
+  border-radius: 100px;
+}
+
+body{
+  background-color: darkgoldenrod;
+  text-align: center;
+}
+
+.box-name{
+  width: 600px;
+  margin: 20px auto;
+  border: 3px soilid #fff;
+  background-color: #fff;
+  border-radius: 30px;
+  padding : 1px
+}
+
+.box-int{
+  width: 600px;
+  margin: 20px auto;
+  border: 5px soilid #fff;
+  border-radius: 10px;
+  padding : 1px
+}
+
+.box-pic img{
+  border-radius: 30px;
+  width: 500px;
+}
